@@ -6,7 +6,7 @@
 
 I am a junior studying Computer Science 🖥️ at the University of California, Berkeley (Go Bears! 🐻).
 
-<img align="right" height="250" width="375" alt="" src="https://media.tenor.com/lCP8U3IWX0wAAAAC/its-not-working-frame-order.gif" />
+<img align="right" height="250" width="400" alt="" src="https://media.tenor.com/lCP8U3IWX0wAAAAC/its-not-working-frame-order.gif" />
 
 ### Life Status:
 
