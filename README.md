@@ -4,11 +4,11 @@
 
 ### Welcome to my GitHub!
 
-I am a junior studying Computer Science 🖥️ at the University of California, Berkeley (Go bears! 🐻).
+I am a junior studying Computer Science 🖥️ at the University of California, Berkeley (Go Bears! 🐻).
 
-<img align="right" height="250" width="375" alt="" src="[https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif](https://media.tenor.com/lCP8U3IWX0wAAAAC/its-not-working-frame-order.gif)https://media.tenor.com/lCP8U3IWX0wAAAAC/its-not-working-frame-order.gif" />
+<img align="right" height="250" width="375" alt="" src="https://media.tenor.com/hVmM21uY9hEAAAAM/homer-simpson.gif" />
 
-### Life Update:
+### Life Status:
 
 - 🛠 &nbsp; I’m currently working with React and JavaScript to develop my front-end skills.
 - 🚀 &nbsp; I am taking CS 188 - Introduction to Artificial Intelligence over the summer.
