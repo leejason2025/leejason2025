@@ -10,8 +10,10 @@ I am a junior studying Computer Science 🖥️ at the University of California,
 
 ### Life Status:
 
-- 🛠 &nbsp; I’m currently working with React and JavaScript to develop my front-end skills.
-- 🚀 &nbsp; I am taking CS 188 - Introduction to Artificial Intelligence over the summer.
+- 🛠 &nbsp; I’m currently working with React and
+JavaScript to develop my front-end skills.
+- 🚀 &nbsp; I am taking CS 188 - Introduction to
+Artificial Intelligence over the summer.
 - 👨🏻‍💻 &nbsp; Looking to recruit for Summer 2024 Tech internships!
 - 📫 &nbsp; How to reach me: Leejason2025@berkeley.edu.
 - 📝 &nbsp; Here is my [Resume](https://github.com/leejason2025/leejason2025/blob/main/Jason%20Lee%20Resume.pdf).
