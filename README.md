@@ -10,8 +10,8 @@ I am a senior studying Computer Science 🖥️ at the University of California,
 
 ### Life Status:
 
-- 🚀 &nbsp; I am taking CS 180 - Introduction to <br>Artificial Intelligence over the summer.
-- 👨🏻‍💻 &nbsp; Looking to recruit for Summer 2024 Tech internships!
+- 🚀 &nbsp; I am taking CS 180 - <br>Computer Vision and Computational Photography.
+- 👨🏻‍💻 &nbsp; Looking to recruit for Summer 2025 internships or Fall 2025 full time positions!
 - 📫 &nbsp; How to reach me: Leejason2025@berkeley.edu.
 - 📝 &nbsp; Here is my [Resume](https://github.com/leejason2025/leejason2025/blob/main/Jason%20Lee%20Resume.pdf).
 
