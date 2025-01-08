@@ -10,9 +10,9 @@ I am a senior studying Computer Science 🖥️ at the University of California,
 
 ### Life Status:
 
-- 🚀 &nbsp; I am taking CS 180 - Computer Vision
-- 💻 &nbsp; Here is my most recent [computer vision project](https://leejason2025.github.io/1/index.html)
-- 👨🏻‍💻 &nbsp; Looking to recruit for Summer 2025 internships!
+- 🚀 &nbsp; Interested in learning about AI and Computer Vision!
+- 💻 &nbsp; Check out my art and computer science projects! [computer vision project](https://leejason2025.github.io)
+- 👨🏻‍💻 &nbsp; Looking for New Grad SWE positions!
 - 📫 &nbsp; How to reach me: Leejason2025@berkeley.edu.
 - 📝 &nbsp; Here is my [Resume](https://github.com/leejason2025/leejason2025/blob/main/Jason%20Lee%20Resume.pdf).
 
