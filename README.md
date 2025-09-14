@@ -9,7 +9,6 @@ I am a recent graduate from the University of California, Berkeley (Go Bears! �
 - 💻 &nbsp; Check out my interdisciplinary projects combining art and technology! [computer vision project](https://leejason2025.github.io)
 - 🚀 &nbsp; Actively seeking opportunities in ML/AI development, especially in creative tech
 - 📫 &nbsp; How to reach me: Leejason2025@berkeley.edu
-- 📝 &nbsp; Here is my [Resume](https://github.com/leejason2025/leejason2025/blob/main/Jason%20Lee%20Resume.pdf)
 
 ### My Hobbies:
 - 💻 &nbsp; I love exploring how cutting-edge AI can enhance creative expression and daily life
