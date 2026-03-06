@@ -6,7 +6,6 @@ I am a recent graduate from the University of California, Berkeley (Go Bears! �
 ### Current Focus:
 - 🎨 &nbsp; Passionate about applying machine learning technology to creative applications!
 - 🤖 &nbsp; Exploring the intersection of AI, computer vision, and digital art
-<!-- This is a single-line comment -->- 💻 &nbsp; Check out my interdisciplinary projects combining art and technology! [computer vision project](https://leejason2025.github.io)
 - 🚀 &nbsp; Actively seeking opportunities in ML/AI development, especially in creative tech
 - 📫 &nbsp; How to reach me: Leejason2025@berkeley.edu
 
